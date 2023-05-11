@@ -1,0 +1,43 @@
+form{
+   
+    height: 600px;
+   border-radius: 10px;
+    border-radius: 30px;
+    background: #ffffff;
+    box-shadow: 15px 15px 30px #bebebe,
+        -15px -15px 30px #ffffff;
+    width: 300px;
+    position: relative;
+    text-align: center; 
+    margin-left: 42%;
+    margin-top: 20px;
+}
+
+.form_viande{
+    padding-top: 40px;
+}
+
+.form-group{
+    padding: 10px;
+}
+
+.sauce_value{
+    border: solid 2px hwb(250 58% 1%);
+   color: black;
+   border-radius: 5px;
+}
+.viande_value{
+    border: solid 2px hwb(250 58% 1%);
+   color: black;
+   border-radius: 5px;
+}
+
+
+.check{
+    border-radius: 100px;
+    color: blue;
+}
+
+p{
+    margin-top: 10px;
+}
